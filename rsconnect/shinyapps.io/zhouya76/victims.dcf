@@ -1,0 +1,12 @@
+name: victims
+title: victims
+username: zhouya76
+account: zhouya76
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11638303
+bundleId: 8443240
+url: https://zhouya76.shinyapps.io/victims/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
